@@ -1,6 +1,8 @@
 import React from 'react'
 import Blog from './components/Blog'
 import blogService from './services/blogs'
+import './App.css'
+import './index.css'
 
 class App extends React.Component {
   constructor(props) {
